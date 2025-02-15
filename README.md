@@ -2,8 +2,6 @@
 
 Welcome to **Kubernetes Monitoring & Observability**! This project sets up a full observability stack using **Prometheus, Grafana, and Kubernetes**, helping you monitor cluster health, metrics, and logs efficiently. 📊🔥
 
-![Observability Banner](https://user-images.githubusercontent.com/YOUR_GITHUB_USERNAME/your-image.png)  
-
 ---
 
 ## 📌 Features
