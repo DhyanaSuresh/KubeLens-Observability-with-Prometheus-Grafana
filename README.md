@@ -41,7 +41,7 @@ kubectl get svc
 ### 5️⃣ Access Grafana Dashboard
 Find the **NodePort** for Grafana and access it via Minikube IP:
 ```sh
-echo "Grafana URL: http://$(minikube ip):<grafana-nodeport>"
+ "Grafana URL: http://$(minikube ip):<grafana-nodeport>"
 ```
 Login Credentials:
 - **Username:** admin
@@ -52,7 +52,7 @@ Login Credentials:
 ## 📡 Access Prometheus
 Find the **NodePort** and open Prometheus UI:
 ```sh
-echo "Prometheus URL: http://$(minikube ip):<prometheus-nodeport>"
+ "Prometheus URL: http://$(minikube ip):<prometheus-nodeport>"
 ```
 
 ---
